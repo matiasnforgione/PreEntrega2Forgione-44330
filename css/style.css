@@ -1,0 +1,49 @@
+.bg-blanco {
+    background-color: rgb(255, 255, 255);
+}
+
+
+.bg-oscuro {
+    background-color: rgb(100, 99, 98)
+}
+
+
+.portada {
+    background-image: url(../assets/fondoroosterback.jpg);
+
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-naranja
+{background-color: rgb(230, 138, 0);
+    
+}
+
+.bg-naranjita
+{background-color: rgba(230, 138, 0, 0.514);
+    
+}
+
+.c-naranja {
+    color:rgb(255, 153, 0);
+}
+
+.c-negro {
+    color: black
+}
+
+.c-blanco {
+    color: white
+}
+
+.link
+{
+    text-decoration: none;
+
+}
